@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=1000&color=EC4899&center=true&vCenter=true&width=700&height=80&lines=ASSIA+DAHBATI" alt="Assia Dahbati" />
+<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=900&size=64&pause=999999&color=FF4DA6&center=true&vCenter=true&width=1000&height=120&lines=ASSIA+DAHBATI" alt="ASSIA DAHBATI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=2000&color=EC4899&center=true&vCenter=true&width=700&lines=Software+Engineer+%C2%B7+Frontend+Developer+%C2%B7+UI%2FUX+Enthusiast;Building+digital+Products;Open+to+Opportunities+%F0%9F%8C%8D" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2500&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Software+Engineer+%C2%B7+Frontend+Developer+%C2%B7+UI%2FUX+Enthusiast;Building+digital+products+with+creativity+and+purpose;Ambitious+mindset+%E2%9C%A8+Open+to+Opportunities+%F0%9F%8C%8D" alt="Typing Subtitle" />
 
+<br/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/assia-dahbati)
