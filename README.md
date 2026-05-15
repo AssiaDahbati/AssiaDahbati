@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=80&lines=ASSIA+DAHBATI" alt="Assia Dahbati" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=2000&color=94A3B8&center=true&vCenter=true&width=700&lines=Software+Engineer+%C2%B7+Frontend+Developer+%C2%B7+UI%2FUX+Enthusiast;Building+digital+experiences+that+feel+human+%26+elegant;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=2000&color=94A3B8&center=true&vCenter=true&width=700&lines=Software+Engineer+%C2%B7+Frontend+Developer+%C2%B7+UI%2FUX+Enthusiast;Building+digital+Products;Open+to+Opportunities+%F0%9F%8C%8D" alt="Subtitle" />
 
 <br/>
 
